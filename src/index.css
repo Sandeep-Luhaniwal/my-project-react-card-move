@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: 'Courier New', Courier, monospace
+  ;
+}
+
+::selection {
+  color: rgb(255, 126, 47);
+}
